@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on web designs, beginner-friendly coding projects, open-source contributions, and projects that merge virtual assistance with software development for enhanced productivity.  
 - 📫 How to reach me: Dumisaninxumalo5@gmail.com  
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I’m currently experimenting with Linux tools like nmap to explore connected devices and optimize workflows for software and virtual assistance tasks!  
+- ⚡ Fun Fact: Did you know? The first computer programmer, Ada Lovelace, wrote an algorithm for a machine that didn't even exist yet! Her work laid the foundation for modern programming—talk about coding for the future! 🚀
 
 ---
 
