@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Training in **Full-Stack Development** at CodeSpace Academy & **Systems Development** @ Dynamic DNA 
+- 💻 Training in **Full-Stack Development** @ CodeSpace Academy & **Systems Development** @ Dynamic DNA 
 - 📋 Mastering project management through **ALX Virtual Assistant Fellowship**  
 - 🎯 Passionate about building tools that **bridge development + productivity**  
 - 🌱 Currently focused on **JavaScript DOM Manipulation**, **ASP.NET Core MVC**, and **Responsive Design**  
