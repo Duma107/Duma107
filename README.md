@@ -75,7 +75,23 @@
 ---
 
 ## 🔥 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duma107&theme=react-dark&area=true)
+<!-- Matrix-style activity graph with neon green -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duma107&theme=chartreuse-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=Cyber%20Activity%20Matrix)
+
+<!-- Animated Stats Cards with matching theme -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duma107&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
+</div>
+
+<!-- Matrix-style typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Developer;Virtual+Assistant;Full-Stack+Developer;Software+Developer;Technical+Support+Intern;Loading+Next+Mission..." />
+</div>
+
+<!-- Animated GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duma107&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=000000&border_color=00ff00&icon_color=00ff00&title_color=00ff00&text_color=00ff00"/>
+</div>
 
 ---
 
