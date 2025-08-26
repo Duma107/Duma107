@@ -102,6 +102,7 @@
 
 ## 💼 Professional Experience
 - **Virtual Assistant Background:** Strong client communication and project coordination skills
+- **Technical Support Intern (UJ):** Supporting university systems and providing technical assistance
 - **Agile Development:** Experience with code reviews, daily standups, and sprint planning
 - **Full-Stack Perspective:** Connecting frontend user experience with backend functionality
 - **Productivity Focus:** Building tools that enhance workflow and automation
