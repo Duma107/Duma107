@@ -1,16 +1,19 @@
 <h1 align="center">Hey there! 👋Dumisani Nxumalo here</h1>
+
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Developer;Virtual+Assistant;Full-Stack+Developer;Software+Developer;Technical+Support+Intern" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=28&duration=3000&pause=1000&color=14D114&center=true&vCenter=true&width=435&lines=System+Developer;Virtual+Assistant;Full-Stack+Developer;Software+Developer;Technical+Support+Intern;Building+the+Future" />
 </div>
+
 <p align="center">
   🧠 <b>Virtual Assistant turned Full-Stack Software Developer</b><br>
   🌍 Building responsive, human-friendly web experiences<br>
   💬 Passionate about merging automation with productivity<br>
   🚀 Bridging client communication with technical solutions
 </p>
+
 <p align="center">
-  <a href="mailto:Dumisaninxumalo5@gmail.com"><img src="https://img.shields.io/badge/Gmail-Dumisani-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/d-nxumalo"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Dumisaninxumalo5@gmail.com"><img src="https://img.shields.io/badge/Gmail-Dumisani-14D114?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/d-nxumalo"><img src="https://img.shields.io/badge/LinkedIn-Connect-14D114?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -29,75 +32,67 @@
 
 ### Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-14D114?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-14D114?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-14D114?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-14D114?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
 ### Frontend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-14D114?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-14D114?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-14D114?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razor-14D114?style=for-the-badge&logo=blazor&logoColor=white"/>
 </p>
 
 ### Backend & Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-14D114?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC-14D114?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-14D114?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ### Tools & Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-14D114?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-14D114?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-14D114?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-14D114?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ### Project Management & Methodologies
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_Planner-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Projects-14D114?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Planner-14D114?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-14D114?style=for-the-badge&logo=agile&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Stats
+## 📈 Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duma107&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duma107&theme=github-dark&bg_color=0D1117&color=14D114&line=14D114&point=FFFFFF&area=true&hide_border=true&custom_title=Code%20Frequency%20Matrix" />
 </p>
 
----
-
-## 🔥 GitHub Activity
-<!-- Matrix-style activity graph with neon green -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=duma107&theme=chartreuse-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=Cyber%20Activity%20Matrix)
-
-<!-- Animated Stats Cards with matching theme -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duma107&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duma107&background=0D1117&ring=14D114&fire=14D114&currStreakLabel=14D114&sideLabels=FFFFFF&dates=14D114&hide_border=true" />
 </div>
 
-<!-- Matrix-style typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Developer;Virtual+Assistant;Full-Stack+Developer;Software+Developer;Technical+Support+Intern;Loading+Next+Mission..." />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duma107&show_icons=true&bg_color=0D1117&title_color=14D114&text_color=FFFFFF&icon_color=14D114&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
-<!-- Animated GitHub Stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duma107&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=000000&border_color=00ff00&icon_color=00ff00&title_color=00ff00&text_color=00ff00"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duma107&layout=compact&bg_color=0D1117&title_color=14D114&text_color=FFFFFF&hide_border=true" width="48%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duma107&theme=onedark&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=duma107&theme=darkhub&no-frame=true&margin-w=15&column=-1" />
 </p>
 
 ---
@@ -112,13 +107,3 @@
 🗄️ Database design with SQL Server
 📋 Agile methodologies (Sprint planning, Code reviews, Daily standups)
 🔧 Full-stack integration & deployment
-```
-
----
-
-## 💼 Professional Experience
-- **Virtual Assistant Background:** Strong client communication and project coordination skills
-- **Technical Support Intern (UJ):** Supporting university systems and providing technical assistance
-- **Agile Development:** Experience with code reviews, daily standups, and sprint planning
-- **Full-Stack Perspective:** Connecting frontend user experience with backend functionality
-- **Productivity Focus:** Building tools that enhance workflow and automation
