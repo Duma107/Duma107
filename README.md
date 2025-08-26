@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋Dumisani Nxumalo here</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Developer;Virtual+Assistant;Full-Stack+Developer;Software+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Developer;Virtual+Assistant;Full-Stack+Developer;Software+Developer;Technical+Support+Intern" />
 </div>
 <p align="center">
   🧠 <b>Virtual Assistant turned Full-Stack Software Developer</b><br>
